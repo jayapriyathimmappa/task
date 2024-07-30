@@ -1,0 +1,50 @@
+.flex-concept {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.footer {
+  display: flex;
+  gap: 30px;
+}
+
+.outerFooter {
+  background-color: rgba(250, 235, 215, 0.702);
+  padding: 20px;
+  width: 100%;
+}
+
+.title {
+  background-color: #39aebc;
+  height: 80px !important;
+  color: #fff;
+}
+
+.title2 {
+  margin: 20px 0;
+}
+
+.schema {
+  color: #41b494;
+  margin-top: 20px;
+  font-weight: 600 !important;
+}
+
+.grouping {
+  display: flex;
+  gap: 20px;
+}
+
+.saveBtn {
+  background-color: #41b494 !important;
+}
+
+.deleteBtn {
+  background-color: #41b49375;
+}
+
+.cancelBtn {
+  color: #90032f;
+  background-color: #fff;
+}

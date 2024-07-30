@@ -1,0 +1,32 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+.header {
+  background-color: #39aebc;
+  height: 80px !important;
+  display: flex;
+  align-items: center;
+  color: #fff;
+  font-size: 32px;
+  gap: 20px;
+}
+
+.icon {
+  font-size: 36px !important;
+}
+
+.background {
+  background-color: #fff;
+  height: 100vh;
+}
+
+.segment {
+  background-color: transparent !important;
+  width: 200px !important;
+  color: #39aebc;
+  border: 2px solid #39aebc;
+  padding: 15px 0;
+}
+
+.segment:hover {
+  color: #2b2b2b !important;
+}
